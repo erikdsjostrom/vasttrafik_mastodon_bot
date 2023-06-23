@@ -1,0 +1,8 @@
+last_status_id = ""
+
+[mastodon]
+base = "base url"
+client_id = "bot id"
+client_secret = "secret key"
+redirect = "rediret uri"
+token = "auth token"
